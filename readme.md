@@ -1,0 +1,1 @@
+This just code example of implementation full text search engine for Elasticsearch 5.* using django
